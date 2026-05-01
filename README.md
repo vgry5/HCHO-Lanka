@@ -1,9 +1,5 @@
 # 🌍 HCHO-Lanka: Spatial-Temporal Analysis & Forecasting of Tropospheric Formaldehyde in Sri Lanka
 
-> Utilizing data engineering and machine learning to analyse tropospheric HCHO (Formaldehyde) data across Sri Lanka — understanding air quality patterns, identifying potential emission sources, and building time series prediction models.
-
----
-
 ## 📋 Table of Contents
 
 - [Overview](#overview)
