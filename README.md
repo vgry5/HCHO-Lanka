@@ -45,7 +45,7 @@ Despite its importance, comprehensive HCHO monitoring and analysis in Sri Lanka 
 
 The analysis covers **seven geographically diverse locations** across Sri Lanka, selected to represent varying altitudes, population densities, and land-use patterns:
 
-| Location | Population Density (persons/km²) | Altitude (ft) |
+| Location | Population Density (persons/km²) | Altitude (m) |
 |:---|:---:|:---:|
 | Colombo | 13,364 | 1 |
 | Matara | 630 | 2 |
